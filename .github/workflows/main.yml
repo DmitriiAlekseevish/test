@@ -47,4 +47,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: DmitriiAlekseevish/test:latest
+          tags: gamefast313/test:latest

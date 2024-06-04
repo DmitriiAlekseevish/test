@@ -8,4 +8,4 @@ WORKDIR /app
 COPY nuton.py .
 
 # Запускаем приложение
-CMD ["python", "nuton.py"]
+CMD ["python", "test.py"]

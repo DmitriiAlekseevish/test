@@ -5,7 +5,7 @@ FROM python:3.12-slim
 WORKDIR /app
 
 # Копируем файлы в рабочую директорию контейнера
-COPY nuton.py .
+COPY test.py .
 
 # Запускаем приложение
 CMD ["python", "test.py"]
